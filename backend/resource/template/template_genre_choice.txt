@@ -1,3 +1,0 @@
-genre ; -1 ; Do you prefer $(genre...), or $(genre)?
-genre ; -1 ; Which of the following genre would you prefer: $(genre...), or genre?
-genre ; 2 ; Do you prefer $(genre) or $(genre)?

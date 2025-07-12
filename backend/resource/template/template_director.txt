@@ -1,2 +1,0 @@
-director ; What is your favorite director?
-director ; Tell me a director you prefer.
